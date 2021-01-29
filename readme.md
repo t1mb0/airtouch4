@@ -2,9 +2,9 @@
 
 Test Airtouch 4 custom component
 
-Scraped compoenent from an outstanding merge request by [@LonePurpleWolf]https://github.com/LonePurpleWolf
+Scraped compoenent from an outstanding merge request by [@LonePurpleWolf](https://github.com/LonePurpleWolf)
 
 https://github.com/home-assistant/home-assistant.io/pull/15717
 
-Uses https://github.com/LonePurpleWolf/airtouch4pyapi
+Uses: https://github.com/LonePurpleWolf/airtouch4pyapi
 
